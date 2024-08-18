@@ -15,6 +15,7 @@ Here is my Category one enhancement: Software Design and Engineering
 
 My assessment of the category one enhancements:
 
+[RobertLowrey_CS-499_CategoryOne](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
 # CS499 Computer Science Capstone Overview
 Hello! My name is Robert Lowrey (he/him), and I am a Dean’s List student majoring in Computer Science at Southern New Hampshire University. In this e-portfolio I will cover an artifact that has been enhanced in three categories, Software Design and Engineering, Algorithms and Data Structures, and Databases. In my studies, I have developed a strong foundation that allows me to apply theoretical concepts to practical challenges. I am excited to showcase this artifact and demonstrate how it has prepared me for advanced applications and future endeavors in the field of computer science.
