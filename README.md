@@ -43,16 +43,32 @@ Here is my original artifact that was written in Java Language in Eclipse
 
 [RobertLowrey_CS-499_CategoryOne](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
-My assessment of the Category One enhancements:
+**Justification of inclusion:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The reason why I chose this artifact is because it was going to be a challenge for me. Meaning that I have not written a Python project in months, so I thought it would be a great refresher for the language overall. It is also a learning curve because I have never used the Tkinter library in Python to implement pictures with individual descriptions to a Python project. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	Within the enhanced artifact there are components that showcase my skills as a developer. One skill that it showcases is an understanding of the Python language overall because I was able to take an artifact that was written originally in Java language and port it to Python. Another skill shown is that I am able to create a subplot of pictures along with individual descriptions for each image. With the implementation of this design, I was able to change the background of the output window to display a lighter shade of gray and align the description of each destination with the image it corresponds to. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  This artifact was improved by way of changing the overall background color of the destinations along with their descriptions. This change makes the description more readable. Another improvement that I have implemented was adding more travel destinations as well as the best time to visit each destination. Lastly, the background color of the image and corresponding description changes when the user clicks on either the image or the description.
+
 
 ### Category Two: Algorithms and Data Structure 
 
 [RobertLowrey_CS-499_CategoryTwo](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
-My assessment of the Category Two enhancements:
+**Justification of inclusion:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I selected this item to enhance further because I wanted to learn more about the Tkinter library in Python. I was eager to learn how to implement more functionality within the library, and I thought that this was a perfect opportunity to do so. Additionally, with the enhanced functionality, I was able to learn new things, such as optimizing the search algorithm and developing the application the way I had envisioned. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The enhancements to the artifact showcase my skills and abilities in development with the implementation of a search query, which demonstrates best coding practices. The enhancement of a linear search algorithm within the application mitigates redundant iterations through the code while displaying the destination images and descriptions. With this being said, the optimization of the average search algorithm in Big-O notation is O(n), while the best case is O(1). 
+
 
 ### Category Three: Databases
 
 [RobertLowrey_CS-499_CategoryThree](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
-My assessment of the Category Three enhancements:
+**Justification of inclusion:**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I chose this artifact because working on the enhancement of the database implementation would reintroduce me to the process of integrating a database within a Python project. It was also a new learning experience when it came to the Bcrypt library implementation, which helped familiarize me with creating a salted hash password before storing it in the database for an additional layer of security. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The enhancements that I have implemented showcase my skills and abilities in software development by maintaining a connection to a NoSQL database that stores usernames and passwords for different users. Another skill demonstrated by this enhancement is the ability to salt hashed passwords for an extra layer of security. Lastly, these enhancements highlight my technical proficiency in data modeling using tools applied during both the database and RBAC implementation.
