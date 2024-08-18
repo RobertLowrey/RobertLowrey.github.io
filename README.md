@@ -3,14 +3,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hello! My name is Robert Lowrey (he/him), and I am a Dean’s List student majoring in Computer Science at Southern New Hampshire University. In this e-portfolio I will cover an artifact that has been enhanced in three categories, Software Design and Engineering, Algorithms and Data Structures, and Databases. In my studies, I have developed a strong foundation that allows me to apply theoretical concepts to practical challenges. I am excited to showcase this artifact and demonstrate how it has prepared me for advanced applications and future endeavors in the field of computer science.
 
 ## Table of Contents
-1. [Professional Self-Assessment](#anchor-link)
+1. Professional Self-Assessment
 2. Code Review
 3. Category One: Software Design and Engineering 
 4. Category Two: Algorithms and Data Structure 
-5. [Category Three: Databases](#anchor-link)
+5. Category Three: Databases
 
-<a name="Professional Self-Assessment">
-  
+
 ### Professional Self-Assessment
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the past eleven years, I have worked as a Certified Pharmacy Technician. One day, while working, I had the urge to change my career to something more challenging and impactful. This desired change would require me to think critically and creatively about solutions to problems. I then explored the programs offered to full-time employees by my current employer, which led me to Computer Science. Upon researching career opportunities in this field, I was immediately convinced that this was the change that I needed. I have been enrolled in the Computer Science program at Southern New Hampshire University since August 2022. When I enrolled in the program, I had very little experience with application development. I had taken a programming class in high school but transferred to a different elective after a week, which I deeply regret. The time I have spent in the Computer Science program has further developed my passion for technology and I have found fulfillment through analyzing data and developing programs.
@@ -64,7 +63,6 @@ Here is my original artifact that was written in Java Language in Eclipse!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The enhancements to the artifact showcase my skills and abilities in development with the implementation of a search query, which demonstrates best coding practices. The enhancement of a linear search algorithm within the application mitigates redundant iterations through the code while displaying the destination images and descriptions. With this being said, the optimization of the average search algorithm in Big-O notation is O(n), while the best case is O(1). 
 
-<a name="Category Three: Databases">
   
 ### Category Three: Databases
 
