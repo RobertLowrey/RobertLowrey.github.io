@@ -7,7 +7,7 @@
 2. Code Review
 3. Category One: Software Design and Engineering 
 4. Category Two: Algorithms and Data Structure 
-5. Category Three: Databases
+5. [Category Three: Databases](#anchor-link)
 
 <a name="Professional Self-Assessment">
   
@@ -64,7 +64,8 @@ Here is my original artifact that was written in Java Language in Eclipse!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The enhancements to the artifact showcase my skills and abilities in development with the implementation of a search query, which demonstrates best coding practices. The enhancement of a linear search algorithm within the application mitigates redundant iterations through the code while displaying the destination images and descriptions. With this being said, the optimization of the average search algorithm in Big-O notation is O(n), while the best case is O(1). 
 
-
+<a name="Category Three: Databases">
+  
 ### Category Three: Databases
 
 [RobertLowrey_CS-499_CategoryThree](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
