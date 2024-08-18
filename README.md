@@ -3,12 +3,14 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hello! My name is Robert Lowrey (he/him), and I am a Dean’s List student majoring in Computer Science at Southern New Hampshire University. In this e-portfolio I will cover an artifact that has been enhanced in three categories, Software Design and Engineering, Algorithms and Data Structures, and Databases. In my studies, I have developed a strong foundation that allows me to apply theoretical concepts to practical challenges. I am excited to showcase this artifact and demonstrate how it has prepared me for advanced applications and future endeavors in the field of computer science.
 
 ## Table of Contents
-1. Professional Self-Assessment
+1. [Professional Self-Assessment](#anchor-link)
 2. Code Review
 3. Category One: Software Design and Engineering 
 4. Category Two: Algorithms and Data Structure 
 5. Category Three: Databases
 
+<a name="Professional Self-Assessment">
+  
 ### Professional Self-Assessment
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the past eleven years, I have worked as a Certified Pharmacy Technician. One day, while working, I had the urge to change my career to something more challenging and impactful. This desired change would require me to think critically and creatively about solutions to problems. I then explored the programs offered to full-time employees by my current employer, which led me to Computer Science. Upon researching career opportunities in this field, I was immediately convinced that this was the change that I needed. I have been enrolled in the Computer Science program at Southern New Hampshire University since August 2022. When I enrolled in the program, I had very little experience with application development. I had taken a programming class in high school but transferred to a different elective after a week, which I deeply regret. The time I have spent in the Computer Science program has further developed my passion for technology and I have found fulfillment through analyzing data and developing programs.
@@ -27,15 +29,14 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  In conclusion, I developed the Travel Destination Application artifact early on in my Computer Science program during my enrollment in the CS-250 Software Development Lifecycle course. I have utilized this application to demonstrate my proficiency in three areas: Software Design and Engineering, Algorithms and Data Structures, and Databases. Each enhancement to the artifact is interconnected and builds upon the previous one for the Python application to form my ePortfolio as a whole. This project highlights the progress I’ve made throughout my Computer Science journey, showing how I took an initial Java application and enhanced it through this Capstone course. It reflects my dedication and growth as I’ve worked to learn various programming languages and tackle the challenges along the way.
 
-
 ### Code Review
 
 Here is my code review video link! I had to post it to YouTube since the file size was greater than what was allowed to upload here!
 
-[https://www.youtube.com/watch?v=DZFJ6WAVCOc](https://www.youtube.com/watch?v=DZFJ6WAVCOc)
+[Youtube Video of Code Review](https://www.youtube.com/watch?v=DZFJ6WAVCOc)
 
 ### Original Java Artifact
-Here is my original artifact that was written in Java Language in Eclipse
+Here is my original artifact that was written in Java Language in Eclipse!
 
 [RobertLowrey_CS-250_OriginalJavaArtifact](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-250_OriginalJavaArtifact)
 
@@ -44,7 +45,7 @@ Here is my original artifact that was written in Java Language in Eclipse
 
 [RobertLowrey_CS-499_CategoryOne](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
-**Justification of inclusion:**
+**Justification of inclusion for Category One:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The reason why I chose this artifact is because it was going to be a challenge for me. Meaning that I have not written a Python project in months, so I thought it would be a great refresher for the language overall. It is also a learning curve because I have never used the Tkinter library in Python to implement pictures with individual descriptions to a Python project. 
 
@@ -57,7 +58,7 @@ Here is my original artifact that was written in Java Language in Eclipse
 
 [RobertLowrey_CS-499_CategoryTwo](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
-**Justification of inclusion:**
+**Justification of inclusion for Category Two:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I selected this item to enhance further because I wanted to learn more about the Tkinter library in Python. I was eager to learn how to implement more functionality within the library, and I thought that this was a perfect opportunity to do so. Additionally, with the enhanced functionality, I was able to learn new things, such as optimizing the search algorithm and developing the application the way I had envisioned. 
 
@@ -68,8 +69,23 @@ Here is my original artifact that was written in Java Language in Eclipse
 
 [RobertLowrey_CS-499_CategoryThree](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
-**Justification of inclusion:**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The artifact that I chose for this category is a Java program featuring multiple travel destinations. Each destination includes a picture and a description. It was created in March 2023, during my enrollment in the CS–250 Software Development Lifecycle course. I believe this project would be a great candidate for further enhancement to meet this category's requirements. For the previous milestone, I ported the Java application to Python, added more destinations, expanded the descriptions, and implemented a feature where clicking on a destination’s image or description changes the background color to highlight the selected row.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  For this category, I further enhanced the artifact by implementing a feature that hides the travel destinations window until the user logs in with the correct username and password. Once the user clicks the login button, they are authenticated, and the window displaying the list of destinations appears. Within the travel destinations window, I also added a search bar that allows users to search for keywords in either the images or descriptions. After clicking the “Search Destinations” button, the query undergoes a linear search to display the images and descriptions containing the specified keyword.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I chose this artifact because working on the enhancement of the database implementation would reintroduce me to the process of integrating a database within a Python project. It was also a new learning experience when it came to the Bcrypt library implementation, which helped familiarize me with creating a salted hash password before storing it in the database for an additional layer of security. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The enhancements that I have implemented showcase my skills and abilities in software development by maintaining a connection to a NoSQL database that stores usernames and passwords for different users. Another skill demonstrated by this enhancement is the ability to salt hashed passwords for an extra layer of security. Lastly, these enhancements highlight my technical proficiency in data modeling using tools applied during both the database and RBAC implementation.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The implementation of the database aligns with course outcome number four by using well-founded and innovative techniques that deliver value and achieve industry-specific goals of storing usernames and passwords in the NoSQL database. Additionally, the RBAC allows the ‘Admin’ role to delete users from the database by selecting their username in the ‘Admin Window’.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I also align with course outcome number one, which focuses on employing strategies for building collaborative environments that enable diverse audiences to support organizational decision making. This is achieved through the utilization of MongoDB. Since MongoDB is scalable and flexible, it enables future developers to contribute to new implementations. It can also enable multiple users to work on the same project to analyze, collectively improve and update the database. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The account creation feature aligns with course outcome number five by developing a security mindset that anticipates exploits in software architecture and design. This is achieved because passwords are stored as a salted hash in the database. As previously mentioned, when creating an account, the individual must enter their password twice using the correct capitalization and spelling when entering each one; otherwise, an error message will populate indicating that the passwords do not match. As of now, I do not have any updates to my outcome-coverage plans. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have learned a lot from implementing the NoSQL database in the artifact. I received a refresher on how to integrate MongoDB into a Python program. Additionally, I learned how to incorporate an account creation window that allows users to create usernames and passwords in the database. I also learned how to share a local MongoDB Compass database for others to view and utilize. Another concept I learned from this enhancement was how to use the Bcrypt library within Python to salt hashed passwords before storing them in the database. Furthermore, I learned how to remove unnecessary white space from user entries to ensure that only meaningful data is stored in the database. Lastly, I learned how to incorporate RBAC in the application to enable different types of access based on the roles that the user can choose from. 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	I faced some challenges along the way, one of which was having to change both my original plan and artifact for this enhancement. I originally chose to implement a database within an Android Studio project; however, my Android Studio development tool was no longer able to run the artifact that I wanted to enhance. After troubleshooting the issue for several days, I decided to change my artifact for this enhancement. The last challenge I faced was sharing the local database for submission. I eventually found, through extensive research, that exporting the collection to a JSON or CSV file to submit would be sufficient for viewing and accessing the database. 
+ 
+
+
