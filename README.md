@@ -37,18 +37,23 @@ This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc
 
 
 ### Original Java Artifact
+[<img src="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/Java.png" width="250" />](https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/Java.png)
+
 Here is my original artifact that was written in Java Language in Eclipse.
 
 [Original Java Artifact](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-250_OriginalJavaArtifact)
 
 ### Enhancement Plan
-This document is my Enhancement Plan to each artifact to meet each category and course outcome.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  For this enhancement plan, I chose an artifact from the CS-250: Software Development Lifecycle course. This artifact displays a list of top five travel destinations. When the Java application is run, it presents a list of top five destinations with a picture and description. Upon clicking a specific destination, you will notice that the background of the selected row changes.
 
 [Enhancement Plan](https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/Robert%20Lowrey%20_CS-499_%20Enhancement%20Plan.docx)
 
 ### Category One: Software Design and Engineering 
 
+[<img src="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/PyCharm.jpg" width="150" />](https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/PyCharm.jpg)
+
 [Category One Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The artifact that I chose to meet this category is a Java program that has multiple travel destinations. Each destination has a picture with a description. It was created in March 2023, when I was enrolled in the CS–250 Software Development Lifecycle course, and I thought that this would be a good project to port to a new language.
 
@@ -90,6 +95,8 @@ This document is my Enhancement Plan to each artifact to meet each category and 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I did face some challenges along the way with this enhancement, one of which was learning new functionalities for implementation. Another challenge I encountered was three weak warnings within the code; however, the weak warnings do not affect the behavior of the program in any way. Therefore, I am under the assumption that they are not vital to the functionality of the application. 
 
 ### Category Three: Databases
+[<img src="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/MongoDB.png" width="250" />](https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/MongoDB.png)
+
 
 [Category Three Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
