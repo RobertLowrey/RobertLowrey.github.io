@@ -1,13 +1,15 @@
 # CS499 Computer Science Capstone Overview
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hello! My name is Robert Lowrey (he/him), and I am a Dean’s List student majoring in Computer Science at Southern New Hampshire University. In this e-portfolio I will cover an artifact that has been enhanced in three categories, Software Design and Engineering, Algorithms and Data Structures, and Databases. In my studies, I have developed a strong foundation that allows me to apply theoretical concepts to practical challenges. I am excited to showcase this artifact and demonstrate how it has prepared me for advanced applications and future endeavors in the field of computer science.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name is Robert Lowrey (he/him), and I am a Dean’s List student majoring in Computer Science at Southern New Hampshire University. In this ePortfolio I will cover an artifact that has been enhanced in three categories, Software Design and Engineering, Algorithms and Data Structures, and Databases. In my studies, I have developed a strong foundation that allows me to apply theoretical concepts to practical challenges. I am excited to showcase this artifact and demonstrate how it has prepared me for advanced applications and future endeavors in the field of computer science.
 
 ## Table of Contents
 1. Professional Self-Assessment
 2. Code Review
-3. Category One: Software Design and Engineering 
-4. Category Two: Algorithms and Data Structure 
-5. Category Three: Databases
+3. Original Java Artifact
+4. Enhancement Plan
+5. Category One: Software Design and Engineering 
+6. Category Two: Algorithms and Data Structure 
+7. Category Three: Databases
 
 ### Professional Self-Assessment
 
@@ -29,16 +31,20 @@
 
 ### Code Review
 
-Below is my code review video link on YouTube where I discuss existing artifact funcitonality, code analysis and look for potential enhancements!
+Below is my code review video link on YouTube where I discuss each existing artifact funcitonality, code analysis and look for potential enhancements.
 
 This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc)
 
 
 ### Original Java Artifact
-Here is my original artifact that was written in Java Language in Eclipse!
+Here is my original artifact that was written in Java Language in Eclipse.
 
 [Original Java Artifact](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-250_OriginalJavaArtifact)
 
+### Enhancement Plan
+This document is my Enhancement Plan to each artifact to meet each category and course outcome.
+
+[Enhancement Plan](https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/Robert%20Lowrey%20_CS-499_%20Enhancement%20Plan.docx)
 
 ### Category One: Software Design and Engineering 
 
@@ -64,8 +70,6 @@ Here is my original artifact that was written in Java Language in Eclipse!
 ### Category Two: Algorithms and Data Structure 
 
 [Category Two Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
-
-**Justification of inclusion for Category Two:**
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The artifact that I chose for this category is a Java program featuring multiple travel destinations. Each destination includes a picture and a description. It was created in March 2023, during my enrollment in the CS–250 Software Development Lifecycle course. I believe this project would be a great candidate for further enhancement to meet this category's requirements. For the previous milestone, I ported the Java application to Python, added more destinations, expanded the descriptions, and implemented a feature where clicking on a destination’s image or description changes the background color to highlight the selected row. 
 
