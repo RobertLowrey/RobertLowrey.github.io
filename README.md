@@ -8,9 +8,9 @@
 1. [Professional Self-Assessment](#custom_assessment_name)
 2. Code Review
 3. Original Java Artifact
-4. Enhancement Plan
-5. Category One: Software Design and Engineering 
-6. Category Two: Algorithms and Data Structure 
+4. [Enhancement Plan](#custom_enhancement_name)
+5. [Category One: Software Design and Engineering](#custom_software_name)
+6. [Category Two: Algorithms and Data Structure](#custom_algorithm_name)
 7. [Category Three: Databases](#custom_database_name)
 
 <a name="custom_assessment_name"></a>
@@ -51,10 +51,14 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 
 [Original Java Artifact](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-250_OriginalJavaArtifact)
 
+<a name="custom_enhancement_name"></a>
+
 ### Enhancement Plan
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  For this enhancement plan, I chose an artifact from the CS-250: Software Development Lifecycle course. This artifact displays a list of top five travel destinations. When the Java application is run, it presents a list of top five destinations with a picture and description. Upon clicking a specific destination, you will notice that the background of the selected row changes.
 
 [Enhancement Plan](https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/Robert%20Lowrey%20_CS-499_%20Enhancement%20Plan.docx)
+
+<a name="custom_software_name"></a>
 
 ### Category One: Software Design and Engineering 
 
@@ -82,6 +86,7 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Another challenge I faced was implementing the scroll wheel functionality, but after researching this option I decided to enhance the artifact another way to make it easier for the users to scroll through the output window. Meaning that they can scroll through the page with their mouse, rather than having to hover above the actual scroll bar within the left side of the window. 
 
+<a name="custom_algorithms_name"></a>
 
 ### Category Two: Algorithms and Data Structure 
 
@@ -105,7 +110,7 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I did face some challenges along the way with this enhancement, one of which was learning new functionalities for implementation. Another challenge I encountered was three weak warnings within the code; however, the weak warnings do not affect the behavior of the program in any way. Therefore, I am under the assumption that they are not vital to the functionality of the application. 
 
-<a name="#custom_database_name"></a>
+<a name="custom_database_name"></a>
 
 ### Category Three: Databases
 
