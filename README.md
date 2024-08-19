@@ -39,7 +39,7 @@
 
 ### Code Review
 
-Below is my code review video link on YouTube where I discuss each existing artifact funcitonality, code analysis and look for potential enhancements.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Below is my code review video link on YouTube where I discuss each existing artifact funcitonality, code analysis and look for potential enhancements.
 
 This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc)
 
@@ -53,7 +53,7 @@ This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc
 		<img src="ePortfolio Images/Java.png" width="300px" /> </a> </div>
   <br>
 
-Here is my original artifact from the CS-250: Software Development Lifecycle course. This artifact displays a list of top five travel destinations in Java Language in Eclipse.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Here is my original artifact from the CS-250: Software Development Lifecycle course. This artifact displays a list of top five travel destinations in Java Language in Eclipse.
 
 [Original Java Artifact](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-250_OriginalJavaArtifact)
 
