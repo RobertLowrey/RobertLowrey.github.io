@@ -50,7 +50,7 @@
 		<img src="ePortfolio Images/Java.png" width="300px" /> </a> </div>
   <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	[Here](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-250_OriginalJavaArtifact) is my Original Java Artifact from the CS-250: Software Development Lifecycle (SDLC) course. This artifact displays a list of the top five travel destinations written in Java Language in Eclipse.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	[Here](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-250_OriginalJavaArtifact) is my Original Java Artifact from the CS-250 Software Development Lifecycle (SDLC) course. This artifact displays a list of the top five travel destinations written in Java Language in Eclipse.
 
 <a name="custom_enhancement_name"></a>
 
@@ -58,7 +58,7 @@
 
 [Enhancement Plan](https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/Word%20Documents/Robert%20Lowrey%20_CS-499_%20Enhancement%20Plan.docx)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	I chose an artifact from the CS-250: Software Development Lifecycle course for the Enhancement Plan. This artifact displays a list of top five travel destinations. When the Java application is run, it presents a list of top five destinations with a picture and description. Upon clicking a specific destination, you will notice that the background of the selected row changes.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	I chose an artifact from the CS-250 Software Development Lifecycle course for the Enhancement Plan. This artifact displays a list of top five travel destinations. When the Java application is run, it presents a list of top five destinations with a picture and description. Upon clicking a specific destination, you will notice that the background of the selected row changes.
 
 <a name="custom_software_name"></a>
 
