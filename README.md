@@ -6,8 +6,8 @@
 ## Table of Contents  
 
 1. [Professional Self-Assessment](#custom_assessment_name)
-2. Code Review
-3. Original Java Artifact
+2. [Code Review](#custom_code_name)
+3. [Original Java Artifact](#custom_java_name)
 4. [Enhancement Plan](#custom_enhancement_name)
 5. [Category One: Software Design and Engineering](#custom_software_name)
 6. [Category Two: Algorithms and Data Structure](#custom_algorithm_name)
@@ -33,12 +33,16 @@
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  In conclusion, I developed the Travel Destination Application artifact early on in my Computer Science program during my enrollment in the CS-250 Software Development Lifecycle course. I have utilized this application to demonstrate my proficiency in three areas: Software Design and Engineering, Algorithms and Data Structures, and Databases. Each enhancement to the artifact is interconnected and builds upon the previous one for the Python application to form my ePortfolio as a whole. This project highlights the progress I’ve made throughout my Computer Science journey, showing how I took an initial Java application and enhanced it through this Capstone course. It reflects my dedication and growth as I’ve worked to learn various programming languages and tackle the challenges along the way.
 
+<a name="custom_code_name"></a>
+
 ### Code Review
 
 Below is my code review video link on YouTube where I discuss each existing artifact funcitonality, code analysis and look for potential enhancements.
 
 This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc)
 
+
+<a name="custom_java_name"></a>
 
 ### Original Java Artifact
 
@@ -86,7 +90,7 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Another challenge I faced was implementing the scroll wheel functionality, but after researching this option I decided to enhance the artifact another way to make it easier for the users to scroll through the output window. Meaning that they can scroll through the page with their mouse, rather than having to hover above the actual scroll bar within the left side of the window. 
 
-<a name="custom_algorithms_name"></a>
+<a name="custom_algorithm_name"></a>
 
 ### Category Two: Algorithms and Data Structure 
 
