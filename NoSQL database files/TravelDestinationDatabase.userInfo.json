@@ -1,0 +1,169 @@
+[{
+  "_id": {
+    "$oid": "66adca0517e997772e9e84bc"
+  },
+  "username": "Robert",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJEJoUTdhYm5SLjVVejB2ZEFiUVFIVWUxWllMRFMzS2lDV1dQeDZHaTlkTkdVWUdCTEFXYlBH",
+      "subType": "00"
+    }
+  },
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "66b6ee88c9fd135399695426"
+  },
+  "username": "R0L05KU",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJEhqSFM1TmM4MXFYaEhRSEFrUFVSQXVmZE5wQjBRa3NxRmRKS3JmNVZ0RTQ3c2EvUEdnd29h",
+      "subType": "00"
+    }
+  },
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "66b6eeaac9fd135399695428"
+  },
+  "username": "ERBWN",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJHhrVlh5VUY4Lkh0Q0dsb0E0dXJ6bC5hNEw2TWt1SGlBd2FBbHpOMmxEUFhWYnRrRDhVemYu",
+      "subType": "00"
+    }
+  },
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "66b6eeccc9fd13539969542a"
+  },
+  "username": "MWSPBWN",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJE53OHdJcDhwYmpFR2doYzBBZUx0MnU5Y3BldXhkd3pSRzFzVjBZM3lWQkNLVTlRdnQxWUlt",
+      "subType": "00"
+    }
+  },
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "66b6ef03c9fd13539969542c"
+  },
+  "username": "G00H098RW",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJFZrVE8zU1NubFVUa1RyRkdUNHhrcU9hbHF3ZFMvNjdjSUNmT0pkN01tazd5YVpqYm9oYWl1",
+      "subType": "00"
+    }
+  },
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "66b6ef3cc9fd13539969542e"
+  },
+  "username": "Erbown",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJEpiMUN6S3JFYVZnajlXMGpLcWg0Ny5ua0ZXRkxEdlQvdGFYRWFPNjRpakZLaWtydnl3Y2xT",
+      "subType": "00"
+    }
+  },
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "66b6ef5bc9fd135399695430"
+  },
+  "username": "Sbrown",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJHBaeVJkTElPQjNhVlRobmRoSUxMci4ySHZBSmlWdVdQRGdjZ3ZGMHdQMEYuRS43SDczaXRP",
+      "subType": "00"
+    }
+  },
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "66b6ef7dc9fd135399695432"
+  },
+  "username": "LucyBC",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJGs2aEM1QUY0djRPSzBUR1VNTmxhOS5NQzI3aHJDdzdWajM0elB3WkFkTy5GTFJtOGFjUVJl",
+      "subType": "00"
+    }
+  },
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "66b78219a08cd6be91fcf0b0"
+  },
+  "username": "david",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJGNkamxHUmFVTGxpVnFCSy5SVFJTOHVlWU1jWWNDUnFZSEhkcEs2SDVYSExVcUVya3hvWXJ5",
+      "subType": "00"
+    }
+  },
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "66b7823da08cd6be91fcf0b2"
+  },
+  "username": "LucyDG",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJDFKS09ndjl3SkloQktsNDJaRENRYS44Q2VvVXZQUVE0TGcuNDhXemJGZGoxQTNGby9ZRkFL",
+      "subType": "00"
+    }
+  },
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "66b7cdc2a1e99550105b37f5"
+  },
+  "username": "emma",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJGRQN1pqb3ZqNGpLUTd3MWZvTzdnOS5KR1Z2LnhmUzBSTWxvOFJxTGlJVi9GOUpkQ0QwSjRx",
+      "subType": "00"
+    }
+  },
+  "role": "User"
+},
+{
+  "_id": {
+    "$oid": "66b7cde0a1e99550105b37f7"
+  },
+  "username": "Harley",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJE1ud3ozUUxaWE4zRTdPRllYU0tGTWUzOThTc3lpRmRnMlpBc2NLUHBLSExtR25JZmhlYWJx",
+      "subType": "00"
+    }
+  },
+  "role": "Admin"
+},
+{
+  "_id": {
+    "$oid": "66b7ce85c4eb3ed3e4b0a806"
+  },
+  "username": "r",
+  "password": {
+    "$binary": {
+      "base64": "JDJiJDEyJEU5dE85Y0dHQ2ROdW8xcUxoRlNFa09nenQ2OUNTR3oxSksveThjWXowN3E1NjJ0bWZqbzRP",
+      "subType": "00"
+    }
+  },
+  "role": "Admin"
+}]
