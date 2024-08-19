@@ -54,7 +54,7 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 ### Category One: Software Design and Engineering 
 <div style="text-align: center;">
     <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/PyCharm.png" target="_blank">
-		<img src="ePortfolio Images/PyCharm.png" width="250px" /> </a> </div>
+		<img src="ePortfolio Images/PyCharm.png" width="200px" /> </a> </div>
   <br>
   
 [Category One Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
