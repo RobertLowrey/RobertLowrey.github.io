@@ -9,7 +9,6 @@
 4. Category Two: Algorithms and Data Structure 
 5. Category Three: Databases
 
-
 ### Professional Self-Assessment
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For the past eleven years, I have worked as a Certified Pharmacy Technician. One day, while working, I had the urge to change my career to something more challenging and impactful. This desired change would require me to think critically and creatively about solutions to problems. I then explored the programs offered to full-time employees by my current employer, which led me to Computer Science. Upon researching career opportunities in this field, I was immediately convinced that this was the change that I needed. I have been enrolled in the Computer Science program at Southern New Hampshire University since August 2022. When I enrolled in the program, I had very little experience with application development. I had taken a programming class in high school but transferred to a different elective after a week, which I deeply regret. The time I have spent in the Computer Science program has further developed my passion for technology and I have found fulfillment through analyzing data and developing programs.
@@ -30,19 +29,19 @@
 
 ### Code Review
 
-Here is my code review video link! I had to post it to YouTube since the file size was greater than what was allowed to upload here!
+Below is my code review video link on YouTube where I discuss existing artifact funcitonality, code analysis and look for potential enhancements!
 
-[Youtube Video of Code Review](https://www.youtube.com/watch?v=DZFJ6WAVCOc)
+This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc)
 
 ### Original Java Artifact
 Here is my original artifact that was written in Java Language in Eclipse!
 
-[RobertLowrey_CS-250_OriginalJavaArtifact](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-250_OriginalJavaArtifact)
+[Original Java Artifact](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-250_OriginalJavaArtifact)
 
 
 ### Category One: Software Design and Engineering 
 
-[RobertLowrey_CS-499_CategoryOne](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
+[Category One Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
 **Justification of inclusion for Category One:**
 
@@ -55,7 +54,7 @@ Here is my original artifact that was written in Java Language in Eclipse!
 
 ### Category Two: Algorithms and Data Structure 
 
-[RobertLowrey_CS-499_CategoryTwo](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
+[Category Two Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
 **Justification of inclusion for Category Two:**
 
@@ -66,7 +65,7 @@ Here is my original artifact that was written in Java Language in Eclipse!
   
 ### Category Three: Databases
 
-[RobertLowrey_CS-499_CategoryThree](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
+[Category Three Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The artifact that I chose for this category is a Java program featuring multiple travel destinations. Each destination includes a picture and a description. It was created in March 2023, during my enrollment in the CS–250 Software Development Lifecycle course. I believe this project would be a great candidate for further enhancement to meet this category's requirements. For the previous milestone, I ported the Java application to Python, added more destinations, expanded the descriptions, and implemented a feature where clicking on a destination’s image or description changes the background color to highlight the selected row.
 
