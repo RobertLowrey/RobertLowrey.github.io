@@ -55,20 +55,20 @@
 <a name="custom_enhancement_name"></a>
 
 ### Enhancement Plan
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	I chose an artifact from the CS-250: Software Development Lifecycle course for the Enhancement Plan. This artifact displays a list of top five travel destinations. When the Java application is run, it presents a list of top five destinations with a picture and description. Upon clicking a specific destination, you will notice that the background of the selected row changes.
 
 [Enhancement Plan](https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/Word%20Documents/Robert%20Lowrey%20_CS-499_%20Enhancement%20Plan.docx)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	I chose an artifact from the CS-250: Software Development Lifecycle course for the Enhancement Plan. This artifact displays a list of top five travel destinations. When the Java application is run, it presents a list of top five destinations with a picture and description. Upon clicking a specific destination, you will notice that the background of the selected row changes.
 
 <a name="custom_software_name"></a>
 
 ### Category One: Software Design and Engineering 
 
+[Category One Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
+
 <div style="text-align: center;">
     <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/PyCharm.png" target="_blank">
 		<img src="ePortfolio Images/PyCharm.png" width="200px" /> </a> </div>
-  
-[Category One Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	The artifact that I chose to meet this category is a Java program that has multiple travel destinations. Each destination has a picture with a description. It was created in March 2023, when I was enrolled in the CS–250 Software Development Lifecycle course, and I thought that this would be a good project to port to a new language.
 
@@ -90,11 +90,11 @@
 
 ### Category Two: Algorithms and Data Structure 
 
+[Category Two Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
+
 <div style="text-align: center;">
     <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/CodeSnippet.png" target="_blank">
 		<img src="ePortfolio Images/CodeSnippet.png" width="700px" /> </a> </div>
-
-[Category Two Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	The artifact that I chose for this category is a Java program featuring multiple travel destinations. Each destination includes a picture and a description. It was created in March 2023, during my enrollment in the CS–250 Software Development Lifecycle course. I believe this project would be a great candidate for further enhancement to meet this category's requirements. For the previous milestone, I ported the Java application to Python, added more destinations, expanded the descriptions, and implemented a feature where clicking on a destination’s image or description changes the background color to highlight the selected row. 
 
@@ -118,11 +118,11 @@
 
 ### Category Three: Databases
 
+[Category Three Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
+
 <div style="text-align: center;">
     <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/MongoDB.png" target="_blank">
 		<img src="ePortfolio Images/MongoDB.png" width="300px" /> </a> </div>
-
-[Category Three Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	The artifact that I chose to meet this enhancement category is the same Python application that I have been working on. It was originally created in March 2023, during my enrollment in the CS–250 Software Development Lifecycle course. For the Software Engineering and Design enhancement, I ported the Java application to Python. Additionally, I added more destinations, expanded the descriptions, and implemented a feature where clicking on a destination’s image or description changes the background color to highlight the selected row. For the Algorithms and Data Structures enhancement, I implemented a feature that hides the travel destinations window until the user logs into the application with the correct username and password.
 
