@@ -1,3 +1,5 @@
+<div style="text-align: center;">
+	
 # CS499 Computer Science Capstone Overview
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name is Robert Lowrey (he/him), and I am a Dean’s List student majoring in Computer Science at Southern New Hampshire University. In this ePortfolio I will cover an artifact that has been enhanced in three categories, Software Design and Engineering, Algorithms and Data Structures, and Databases. In my studies, I have developed a strong foundation that allows me to apply theoretical concepts to practical challenges. I am excited to showcase this artifact and demonstrate how it has prepared me for advanced applications and future endeavors in the field of computer science.
@@ -36,7 +38,7 @@ Below is my code review video link on YouTube where I discuss each existing arti
 This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc)
 
 
-### Original Java Artifact
+### Original Java Artifact </div>
 
 <div style="text-align: center;">
     <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/Java.png" target="_blank">
@@ -126,7 +128,6 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I have learned a lot from implementing the NoSQL database in the artifact. I received a refresher on how to integrate MongoDB into a Python program. Additionally, I learned how to incorporate an account creation window that allows users to create usernames and passwords in the database. I also learned how to share a local MongoDB Compass database for others to view and utilize. Another concept I learned from this enhancement was how to use the Bcrypt library within Python to salt hashed passwords before storing them in the database. Furthermore, I learned how to remove unnecessary white space from user entries to ensure that only meaningful data is stored in the database. Lastly, I learned how to incorporate RBAC in the application to enable different types of access based on the roles that the user can choose from. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I faced some challenges along the way, one of which was having to change both my original plan and artifact for this enhancement. I originally chose to implement a database within an Android Studio project; however, my Android Studio development tool was no longer able to run the artifact that I wanted to enhance. After troubleshooting the issue for several days, I decided to change my artifact for this enhancement. The last challenge I faced was sharing the local database for submission. I eventually found, through extensive research, that exporting the collection to a JSON or CSV file to submit would be sufficient for viewing and accessing the database. 
- 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I faced some challenges along the way, one of which was having to change both my original plan and artifact for this enhancement. I originally chose to implement a database within an Android Studio project; however, my Android Studio development tool was no longer able to run the artifact that I wanted to enhance. After troubleshooting the issue for several days, I decided to change my artifact for this enhancement. The last challenge I faced was sharing the local database for submission. I eventually found, through extensive research, that exporting the collection to a JSON or CSV file to submit would be sufficient for viewing and accessing the database. </div
 
 
