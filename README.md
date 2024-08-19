@@ -1,5 +1,3 @@
-<div style="text-align: center;">
-	
 # CS499 Computer Science Capstone Overview
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name is Robert Lowrey (he/him), and I am a Dean’s List student majoring in Computer Science at Southern New Hampshire University. In this ePortfolio I will cover an artifact that has been enhanced in three categories, Software Design and Engineering, Algorithms and Data Structures, and Databases. In my studies, I have developed a strong foundation that allows me to apply theoretical concepts to practical challenges. I am excited to showcase this artifact and demonstrate how it has prepared me for advanced applications and future endeavors in the field of computer science.
@@ -38,7 +36,7 @@ Below is my code review video link on YouTube where I discuss each existing arti
 This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc)
 
 
-### Original Java Artifact </div>
+### Original Java Artifact
 
 <div style="text-align: center;">
     <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/Java.png" target="_blank">
