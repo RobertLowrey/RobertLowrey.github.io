@@ -1,3 +1,5 @@
+<a name="custom_top_name"></a>
+
 # CS499 Computer Science Capstone Overview
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; My name is Robert Lowrey (he/him), and I am a Dean’s List student majoring in Computer Science at Southern New Hampshire University. In this ePortfolio I will cover an artifact that has been enhanced in three categories, Software Design and Engineering, Algorithms and Data Structures, and Databases. In my studies, I have developed a strong foundation that allows me to apply theoretical concepts to practical challenges. I am excited to showcase this artifact and demonstrate how it has prepared me for advanced applications and future endeavors in the field of computer science.
@@ -60,7 +62,7 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 ### Enhancement Plan
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  For this enhancement plan, I chose an artifact from the CS-250: Software Development Lifecycle course. This artifact displays a list of top five travel destinations. When the Java application is run, it presents a list of top five destinations with a picture and description. Upon clicking a specific destination, you will notice that the background of the selected row changes.
 
-[Enhancement Plan](https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/Robert%20Lowrey%20_CS-499_%20Enhancement%20Plan.docx)
+[Enhancement Plan](https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/Word%20Documents/Robert%20Lowrey%20_CS-499_%20Enhancement%20Plan.docx)
 
 <a name="custom_software_name"></a>
 
@@ -143,4 +145,4 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I faced some challenges along the way, one of which was having to change both my original plan and artifact for this enhancement. I originally chose to implement a database within an Android Studio project; however, my Android Studio development tool was no longer able to run the artifact that I wanted to enhance. After troubleshooting the issue for several days, I decided to change my artifact for this enhancement. The last challenge I faced was sharing the local database for submission. I eventually found, through extensive research, that exporting the collection to a JSON or CSV file to submit would be sufficient for viewing and accessing the database.
 
-
+[Back to Top](#custom_top_name)
