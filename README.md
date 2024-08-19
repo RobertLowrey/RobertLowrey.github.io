@@ -71,7 +71,6 @@ This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc
 <div style="text-align: center;">
     <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/PyCharm.png" target="_blank">
 		<img src="ePortfolio Images/PyCharm.png" width="200px" /> </a> </div>
-  <br>
   
 [Category One Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
@@ -99,7 +98,6 @@ This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc
 <div style="text-align: center;">
     <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/CodeSnippet.png" target="_blank">
 		<img src="ePortfolio Images/CodeSnippet.png" width="700px" /> </a> </div>
-  <br>
 
 [Category Two Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
@@ -128,7 +126,6 @@ This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc
 <div style="text-align: center;">
     <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/MongoDB.png" target="_blank">
 		<img src="ePortfolio Images/MongoDB.png" width="300px" /> </a> </div>
-  <br>
 
 [Category Three Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
