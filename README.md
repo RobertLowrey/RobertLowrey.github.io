@@ -38,9 +38,8 @@ This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc
 
 ### Original Java Artifact
 
-<div style="text-align: center;">
-    <a href="https://https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/Java.png" target="_blank">
-		<img src="ePortfolio Images/Java.png" width="250px" /> </a> </div>
+<img src="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/Java.png" width=20% height=30%> 
+  <br>
 
 Here is my original artifact from the CS-250: Software Development Lifecycle course. This artifact displays a list of top five travel destinations in Java Language in Eclipse.
 
@@ -52,9 +51,8 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 [Enhancement Plan](https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/Robert%20Lowrey%20_CS-499_%20Enhancement%20Plan.docx)
 
 ### Category One: Software Design and Engineering 
-<div style="text-align: center;">
-    <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/PyCharm.png" target="_blank">
-		<img src="ePortfolio Images/PyCharm.png" width="200px" /> </a> </div>
+
+<img src="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/PyCharm.png" width=20% height=30%> 
   <br>
   
 [Category One Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
@@ -100,10 +98,9 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I did face some challenges along the way with this enhancement, one of which was learning new functionalities for implementation. Another challenge I encountered was three weak warnings within the code; however, the weak warnings do not affect the behavior of the program in any way. Therefore, I am under the assumption that they are not vital to the functionality of the application. 
 
 ### Category Three: Databases
-<div style="text-align: center;">
-    <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/MongoDB.png" target="_blank">
-		<img src="ePortfolio Images/MongoDB.png" width="250px" /> </a> </div><br>
 
+<img src="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/MongoDB.png" width=20% height=30%> 
+  <br>
 
 [Category Three Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
 
@@ -121,9 +118,9 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  The account creation feature aligns with course outcome number five by developing a security mindset that anticipates exploits in software architecture and design. This is achieved because passwords are stored as a salted hash in the database. As previously mentioned, when creating an account, the individual must enter their password twice using the correct capitalization and spelling when entering each one; otherwise, an error message will populate indicating that the passwords do not match. As of now, I do not have any updates to my outcome-coverage plans. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; I have learned a lot from implementing the NoSQL database in the artifact. I received a refresher on how to integrate MongoDB into a Python program. Additionally, I learned how to incorporate an account creation window that allows users to create usernames and passwords in the database. I also learned how to share a local MongoDB Compass database for others to view and utilize. Another concept I learned from this enhancement was how to use the Bcrypt library within Python to salt hashed passwords before storing them in the database. Furthermore, I learned how to remove unnecessary white space from user entries to ensure that only meaningful data is stored in the database. Lastly, I learned how to incorporate RBAC in the application to enable different types of access based on the roles that the user can choose from. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I have learned a lot from implementing the NoSQL database in the artifact. I received a refresher on how to integrate MongoDB into a Python program. Additionally, I learned how to incorporate an account creation window that allows users to create usernames and passwords in the database. I also learned how to share a local MongoDB Compass database for others to view and utilize. Another concept I learned from this enhancement was how to use the Bcrypt library within Python to salt hashed passwords before storing them in the database. Furthermore, I learned how to remove unnecessary white space from user entries to ensure that only meaningful data is stored in the database. Lastly, I learned how to incorporate RBAC in the application to enable different types of access based on the roles that the user can choose from. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 	I faced some challenges along the way, one of which was having to change both my original plan and artifact for this enhancement. I originally chose to implement a database within an Android Studio project; however, my Android Studio development tool was no longer able to run the artifact that I wanted to enhance. After troubleshooting the issue for several days, I decided to change my artifact for this enhancement. The last challenge I faced was sharing the local database for submission. I eventually found, through extensive research, that exporting the collection to a JSON or CSV file to submit would be sufficient for viewing and accessing the database. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I faced some challenges along the way, one of which was having to change both my original plan and artifact for this enhancement. I originally chose to implement a database within an Android Studio project; however, my Android Studio development tool was no longer able to run the artifact that I wanted to enhance. After troubleshooting the issue for several days, I decided to change my artifact for this enhancement. The last challenge I faced was sharing the local database for submission. I eventually found, through extensive research, that exporting the collection to a JSON or CSV file to submit would be sufficient for viewing and accessing the database. 
  
 
 
