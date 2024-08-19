@@ -5,14 +5,15 @@
 
 ## Table of Contents  
 
-1. Professional Self-Assessment
+1. [Professional Self-Assessment](#custom_assessment_name)
 2. Code Review
 3. Original Java Artifact
 4. Enhancement Plan
 5. Category One: Software Design and Engineering 
 6. Category Two: Algorithms and Data Structure 
-7. Category Three: Databases 
+7. [Category Three: Databases](#custom_database_name)
 
+<a name="custom_assessment_name"></a>
 
 ### Professional Self-Assessment
 
@@ -104,11 +105,13 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  I did face some challenges along the way with this enhancement, one of which was learning new functionalities for implementation. Another challenge I encountered was three weak warnings within the code; however, the weak warnings do not affect the behavior of the program in any way. Therefore, I am under the assumption that they are not vital to the functionality of the application. 
 
+<a name="#custom_database_name"></a>
+
 ### Category Three: Databases
 
-< style="text-align: center;">
+<div style="text-align: center;">
     <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/MongoDB.png" target="_blank">
-		<img src="ePortfolio Images/MongoDB.png" width="300px" /> </a> </>
+		<img src="ePortfolio Images/MongoDB.png" width="300px" /> </a> </div>
   <br>
 
 [Category Three Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
