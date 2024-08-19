@@ -1,8 +1,8 @@
 <a name="custom_top_name"></a>
 
-# CS499 Computer Science Capstone Overview
+# CS-499 Computer Science Capstone Overview
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	My name is Robert Lowrey (he/him), and I am a Dean’s List student majoring in Computer Science at Southern New Hampshire University. In this ePortfolio I will cover an artifact that has been enhanced in three categories, Software Design and Engineering, Algorithms and Data Structures, and Databases. In my studies, I have developed a strong foundation that allows me to apply theoretical concepts to practical challenges. I am excited to showcase this artifact and demonstrate how it has prepared me for advanced applications and future endeavors in the field of computer science.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	My name is Robert Lowrey (he/him), and I am a Dean’s List student majoring in Computer Science at Southern New Hampshire University. In this ePortfolio I will cover an artifact that has been enhanced in three categories, Software Design and Engineering, Algorithms and Data Structures, and Databases. In my studies, I have developed a strong foundation that allows me to apply theoretical concepts to practical challenges. I am excited to showcase this artifact and demonstrate how it has prepared me for advanced applications and future endeavors in the field of Computer Science.
 
 
 ## Table of Contents  
@@ -53,9 +53,7 @@ This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc
 		<img src="ePortfolio Images/Java.png" width="300px" /> </a> </div>
   <br>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Here is my original artifact from the CS-250: Software Development Lifecycle course. This artifact displays a list of top five travel destinations in Java Language in Eclipse.
-
-[Original Java Artifact](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-250_OriginalJavaArtifact)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	Here is my [Original Java Artifact](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-250_OriginalJavaArtifact) from the CS-250: Software Development Lifecycle course. This artifact displays a list of top five travel destinations in Java Language in Eclipse.
 
 <a name="custom_enhancement_name"></a>
 
@@ -83,7 +81,7 @@ This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	This artifact was improved by way of changing the overall background color of the destinations along with their descriptions. This change makes the description more readable. Another improvement that I have implemented was adding more travel destinations as well as the best time to visit each destination. Lastly, the background color of the image and corresponding description changes when the user clicks on either the image or the description.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	A course outcome I align with is number two, which is designing and developing professional-quality written communications that are coherent and technically sound with inline comments throughout the Python project. Another course outcome that I align with from this enhancement is outcome number three, which is achieving computing solutions that solve a problem using principles and computer science practices that are appropriate for the language. Therefore, I have met the planned course outcomes with this enhancement. I was successfully able to port this project into Python language and meet the two planned course outcomes that were discussed in the Module One Enhancement Plan. As of writing this I currently do not have any updates to my outcome-coverage plans.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	A course outcome I align with is number two, which is designing and developing professional-quality written communications that are coherent and technically sound with inline comments throughout the Python project. Another course outcome that I align with from this enhancement is outcome number three, which is achieving computing solutions that solve a problem using principles and Computer Science practices that are appropriate for the language. Therefore, I have met the planned course outcomes with this enhancement. I was successfully able to port this project into Python language and meet the two planned course outcomes that were discussed in the Module One Enhancement Plan. As of writing this I currently do not have any updates to my outcome-coverage plans.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	One thing I have learned from the enhancement of this artifact was how to work with the Python language again. It was a great refresher, and it has made me feel confident as a developer. I honestly thought that I forgot everything about the language, but it turns out, I was incorrect about my assumptions. I was introduced to a new Python library while working on the enhancements of this category, which was the Tkinter library. With this library I learned how to create canvas structures and grids to display the pictures with the appropriate corresponding description labels. Another thing I learned was how to create functionality within Python which enables the user to click on the image or description of the image, and when they do so the background changes color to indicate that the row is selected.
 
@@ -109,7 +107,7 @@ This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	The enhancements to the artifact showcase my skills and abilities in development with the implementation of a search query, which demonstrates best coding practices. The enhancement of a linear search algorithm within the application mitigates redundant iterations through the code while displaying the destination images and descriptions. With this being said, the optimization of the average search algorithm in Big-O notation is O(n), while the best case is O(1). 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	A course outcome I align with is number three, which is the utilization of algorithmic principles, computer science practices, and standards appropriate to its solution while managing trade-offs. I met this outcome by implementing a search feature within the application. This feature utilizes a linear search algorithm, which enhances the overall optimization of the artifact. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	A course outcome I align with is number three, which is the utilization of algorithmic principles, Computer Science practices, and standards appropriate to its solution while managing trade-offs. I met this outcome by implementing a search feature within the application. This feature utilizes a linear search algorithm, which enhances the overall optimization of the artifact. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;	I align with course outcome number four, which is to demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices to implement computer solutions that deliver value. This course outcome was met by organization of data structures, including classes and functions that handle the programs behavior correctly. This ensures that any search algorithm or login feature functions as anticipated.
 
