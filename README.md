@@ -90,7 +90,7 @@
 
 ### Category Two: Algorithms and Data Structure 
 
-[Category Two Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
+[Category Two Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryTwo)
 
 <div style="text-align: center;">
     <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/CodeSnippet.png" target="_blank">
@@ -118,7 +118,7 @@
 
 ### Category Three: Databases
 
-[Category Three Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
+[Category Three Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryThree)
 
 <div style="text-align: center;">
     <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/MongoDB.png" target="_blank">
