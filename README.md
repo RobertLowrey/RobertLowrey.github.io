@@ -38,7 +38,9 @@ This video was built using [Youtube](https://www.youtube.com/watch?v=DZFJ6WAVCOc
 
 ### Original Java Artifact
 
-<img src="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/Java.png" width=20% height=30%> 
+<div style="text-align: center;">
+    <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/Java.png" target="_blank">
+		<img src="ePortfolio Images/Java.png" width="300px" /> </a> </div>
   <br>
 
 Here is my original artifact from the CS-250: Software Development Lifecycle course. This artifact displays a list of top five travel destinations in Java Language in Eclipse.
@@ -52,7 +54,9 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 
 ### Category One: Software Design and Engineering 
 
-<img src="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/PyCharm.png" width=20% height=30%> 
+<div style="text-align: center;">
+    <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/PyCharm.png" target="_blank">
+		<img src="ePortfolio Images/PyCharm.png" width="200px" /> </a> </div>
   <br>
   
 [Category One Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
@@ -99,7 +103,9 @@ Here is my original artifact from the CS-250: Software Development Lifecycle cou
 
 ### Category Three: Databases
 
-<img src="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/MongoDB.png" width=20% height=30%> 
+<div style="text-align: center;">
+    <a href="https://github.com/RobertLowrey/RobertLowrey.github.io/blob/main/ePortfolio%20Images/MongoDB.png" target="_blank">
+		<img src="ePortfolio Images/MongoDB.png" width="300px" /> </a> </div>
   <br>
 
 [Category Three Enhancement](https://github.com/RobertLowrey/RobertLowrey.github.io/tree/main/RobertLowrey_CS-499_CategoryOne)
